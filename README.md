@@ -1,0 +1,1 @@
+# Simple Calculator - Team 1\n\nPerform addition, subtraction, multiplication, division and modulus.\n\n## Compilation and Run\n```bash\ngcc main.c -o app\n./app\n```\n
